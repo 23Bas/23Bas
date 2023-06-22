@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="40" width="40px"/>, I'm Baskara</h1>
-<h3 align="center">I am a website designer. I love to see and learn how to design a website.🇮🇩:</h3>
+<h3 align="center">I am a website designer. I love to see and learn how to design a website.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23bas&label=Profile%20views&color=0e75b6&style=flat" alt="23bas" /> </p>
 
-<h3 align="left">🌐:Connect with me:</h3>
+<h3 align="left">🌐Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/agungsatria._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agungsatria._" height="30" width="40" /></a>
 </p>
