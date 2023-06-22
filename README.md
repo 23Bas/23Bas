@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="30" width="40px"/>, I'm Baskara</h1>
-<h3 align="center">I am a website designer. I love to see and learn how to design a website.</h3>:indonesia:
+<h3 align="center">I am a website designer. I love to see and learn how to design a website.🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23bas&label=Profile%20views&color=0e75b6&style=flat" alt="23bas" /> </p>
 
