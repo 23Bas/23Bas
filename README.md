@@ -1,6 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="40" width="40px"/>, I'm Baskara</h1>
 <h2 align="center">I am a student who enjoys looking at and learning how to design websites.</h2>
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23bas&label=Profile%20views&color=0e75b6&style=flat" alt="23bas" /> </p>
 
 <h1 align="left">🌐Connect with me:</h1>
