@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="40" width="40px"/>, I'm Baskara</h1>
 <h2 align="center">I am a student who enjoys looking at and learning how to design websites.</h2>
 
-#Github Statistic#
+
 <p align="left">
 <a href="https://github.com/23Bas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=23Bas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
