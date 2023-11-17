@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="40" width="40px"/>, I'm Baskara</h1>
-<h2 align="center">I am a student who enjoys looking at and learning how to design websites.</h2>
+<h2 align="center">I am a student who enjoys looking and learning how to design websites.</h2>
 
 
 <p align="left">
