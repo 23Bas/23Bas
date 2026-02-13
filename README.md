@@ -30,7 +30,7 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/agungBaskara404) 
 
 <!--QUOTE_SECTION_START-->
-## 🌟 Quote Harian
+## 🌟 Daily Quote
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
