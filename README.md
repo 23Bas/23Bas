@@ -12,7 +12,7 @@
 
 <h2 align="left">🌐Connect with me:</h2>
 <p align="left">
-<a href="https://instagram.com/agungsatria._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agungsatria._" height="30" width="40" /></a>
+<a href="https://instagram.com/agungbaskara._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agungsatria._" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/agung-baskara-g6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agung satria" height="30" width="40" /></a>
 </p>
 
